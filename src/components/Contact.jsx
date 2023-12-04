@@ -31,7 +31,7 @@ const Contact = () => {
         'template_ey5x43w',
         {
           from_name: form.name,
-          to_name: "Yosef Bakier",
+          to_name: "Yousef Bakier",
           from_email: form.email,
           to_email: 'contact@yousefbakier.com',
           message: form.message,

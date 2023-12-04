@@ -21,7 +21,7 @@ const Hero = () => {
           </h1>
           {/* <Resume /> */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I'm Yousef Bakier, an English to Arabic/German translator with a passion for the world of IT and gaming. Allow me to take you on a linguistic journey where precision and fluency meet to convey your message seamlessly to a broader audience.
+            I'm <span className="text-[#915EFF]"><a href="https://www.linkedin.com/in/youssef-bakier">Yousef Bakier</a></span>, an English to Arabic/German translator with a passion for the world of IT and gaming. Allow me to take you on a linguistic journey where precision and fluency meet to convey your message seamlessly to a broader audience.
           </p>
         </div>
       </div>

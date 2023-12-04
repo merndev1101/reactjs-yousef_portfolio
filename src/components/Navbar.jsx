@@ -43,9 +43,9 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex">
+          <a href='https://www.linkedin.com/in/youssef-bakier' className="text-white text-[18px] font-bold cursor-pointer flex">
           Yousef &nbsp; <span className="sm:block hidden"> Bakier</span>
-          </p>
+          </a>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">
           {navLinks.map((nav) => (
