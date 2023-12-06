@@ -63,7 +63,8 @@ const Experience = () => {
           ))}
         </VerticalTimeline>
         <div className="text-xl my-7 p-5">
-          Let's break language barriers together and expand your reach. Contact me to discuss your translation needs!
+          Let's break language barriers together and expand your reach. Contact
+          me to discuss your translation needs!
         </div>
       </div>
     </>

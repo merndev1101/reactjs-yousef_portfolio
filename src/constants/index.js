@@ -119,30 +119,30 @@ const technologies = [
 const experiences = [
   {
     title: "Accuracy",
-    company_name: "Every translation is meticulously crafted to ensure precise meaning and cultural relevance.",
+    company_name:
+      "Every translation is meticulously crafted to ensure precise meaning and cultural relevance.",
     icon: cloud,
     iconBg: "#383E56",
     date: "",
-    points: [
-          ],
+    points: [],
   },
   {
     title: "Timeliness",
-    company_name: "Your deadlines matter, and I strive to deliver within agreed timelines.",
+    company_name:
+      "Your deadlines matter, and I strive to deliver within agreed timelines.",
     icon: cloud,
     iconBg: "#383E56",
     date: "",
-    points: [
-    ],
+    points: [],
   },
   {
     title: "Passion for Gaming and Technology",
-    company_name: "My love for Technology and gaming drives me to provide translations that truly capture the essence of IT and the gaming worlds.",
+    company_name:
+      "My love for Technology and gaming drives me to provide translations that truly capture the essence of IT and the gaming worlds.",
     icon: cloud,
     iconBg: "#383E56",
     date: "",
-    points: [
-    ],
+    points: [],
   },
 ];
 

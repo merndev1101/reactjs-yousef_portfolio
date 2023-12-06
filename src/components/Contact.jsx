@@ -27,16 +27,16 @@ const Contact = () => {
     setLoading(true);
     emailJs
       .send(
-        "service_ifz5k73",
-        'template_ey5x43w',
+        "service_ttqhsms", //service ID
+        "template_pnnk3n9", //template ID
         {
           from_name: form.name,
-          to_name: "Yegor",
+          to_name: "Ali",
           from_email: form.email,
-          to_email: 'yegorantonov@outlook.com',
+          to_email: "sweewee80@gmail.com",
           message: form.message,
         },
-        'IEDSSGktgmhfCCXd_'
+        "nUDXDmSuhrKqcgEvq" //publick key
       )
       .then(
         () => {
